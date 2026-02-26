@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+Plab2venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
